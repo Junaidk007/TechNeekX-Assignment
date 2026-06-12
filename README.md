@@ -1,5 +1,7 @@
 # Event Recommendations Dashboard
 
+https://tech-neek-x-assignment.vercel.app/
+
 A modern full-stack web application that processes historical event data (attendance, categories, dates, times) and displays data-driven optimization recommendations in a sleek, responsive minimalist black-and-white dashboard. Built using the MERN stack (MongoDB, Express, React, Node.js).
 
 ---
